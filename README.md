@@ -8,6 +8,7 @@ The list of notebooks included are:
    - HMS: MobileNetV2 5 fold CV (Training + Inference)
    - HMS: Ensemble of models (Submission notebook)
    - HMS: Ensemble of models- Version 2 (Submission notebook)
+
 Utility files includes:
    - spec_eeg.py contains script to convert EGG data to spectrogram format.
    - hms_data_generator contains the custom data generator function
